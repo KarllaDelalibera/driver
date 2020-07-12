@@ -1,4 +1,4 @@
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://www.python.org/downloads/release/python-380/)
+[![PyPI pyversions](https://www.python.org/)](https://www.python.org/downloads/release/python-380/)
 
 # Repositório destinado a criação de drivers 
 
