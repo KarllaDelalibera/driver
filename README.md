@@ -1,3 +1,5 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # Repositório destinado a criação de drivers 
 
 1. **Driver de conexão: psycopg2**
@@ -22,7 +24,7 @@ No terminal, clone o projeto:
 git clone https://github.com/KarllaDelalibera/Driver.git
 ```
 
-Entre na pasta Driver e com o Python instalado, execute:
+Entre na pasta Driver e com o Python (3 >=3.6) instalado, execute:
 
 ``` python
 from driver_conexao_mysql import database as driver_sql
