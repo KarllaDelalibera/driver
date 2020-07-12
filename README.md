@@ -8,7 +8,7 @@
   
 2. **Driver de conexão: MySQL**
 
-  O objetivo desse driver é facilitar a conexão do usuário a um banco MySQL utilizando a biblioteca mysql-connector-python do python.
+  O objetivo desse driver é facilitar a conexão do usuário a um banco MySQL utilizando a biblioteca mysql-connector-python.
 
 # O que você consegue fazer com esses drivers
 
