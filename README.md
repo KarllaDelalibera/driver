@@ -22,7 +22,7 @@ No terminal, clone o projeto:
 git clone https://github.com/KarllaDelalibera/Driver.git
 ```
 
-Entre na pasta Driver e com o Python ativado, execute
+Entre na pasta Driver e com o Python instalado, execute:
 
 ```
 from driver_conexao_mysql import database as driver_sql
