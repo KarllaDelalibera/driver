@@ -24,7 +24,7 @@ git clone https://github.com/KarllaDelalibera/Driver.git
 
 Entre na pasta Driver e com o Python instalado, execute:
 
-```
+``` python
 from driver_conexao_mysql import database as driver_sql
 from driver_conexao_psycopg2 import database as driver_psy
 ```
