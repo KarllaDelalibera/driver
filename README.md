@@ -8,11 +8,26 @@
 
   O objetivo desse driver é facilitar a conexão do usuário a um banco MySQL utilizando a biblioteca mysql-connector-python do python.
 
-# O que você consegue fazer com esses drivers:
+# O que você consegue fazer com esses drivers
 
 - [X] Iniciar uma conexão ao banco.
 - [X] Enviar consultas para serem executas e/ou obter seus resultados.
 - [X] Finalizar as conexões criadas. 
 
-> Status do Projeto: Em desenvolvimento :construction:
+# Como utilizar
 
+No terminal, clone o projeto:
+
+```
+git clone https://github.com/KarllaDelalibera/Driver.git
+```
+
+Entre na pasta Driver e com o Python ativado, execute
+
+```
+from driver_conexao_mysql import database as driver_sql
+from driver_conexao_psycopg2 import database as driver_psy
+```
+
+
+> Status do Projeto: Em desenvolvimento :construction:
