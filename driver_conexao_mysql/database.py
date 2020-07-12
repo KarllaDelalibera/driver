@@ -51,7 +51,7 @@ class Database:
             else:
                 self.cur.execute(query, parameter)
         except mysql.Error as e:
-            logger.error(e.pgerror)
+            logger.error(e)
         finally:
             self.cur.close()
 
