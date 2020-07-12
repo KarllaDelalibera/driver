@@ -21,7 +21,7 @@
 No terminal, clone o projeto:
 
 ```
-git clone https://github.com/KarllaDelalibera/Driver.git
+git clone https://github.com/KarllaDelalibera/driver.git
 ```
 
 Entre na pasta driver e com o Python instalado, execute:
