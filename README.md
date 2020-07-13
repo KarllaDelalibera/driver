@@ -1,6 +1,6 @@
 [![python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/)
 
-# Repositório destinado a criação de drivers 
+# Repositório destinado a criação de drivers de conexão com banco de dados
 
 1. **Driver de conexão: psycopg2**
 
