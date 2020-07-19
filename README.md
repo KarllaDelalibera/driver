@@ -24,7 +24,7 @@ No terminal, clone o projeto:
 git clone https://github.com/KarllaDelalibera/driver.git
 ```
 
-Entre na pasta driver, com o Python e requirements instalados, execute:
+Com o Python e requirements instalados, importe os módulos da seguinte maneira:
 
 ``` python
 from driver_conexao_mysql import database as driver_sql
