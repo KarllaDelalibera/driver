@@ -10,13 +10,13 @@
 
   O objetivo desse driver é facilitar a conexão do usuário a um banco MySQL utilizando a biblioteca mysql-connector-python.
 
-# O que você consegue fazer com esses drivers
+## O que você consegue fazer com esses drivers
 
 - [X] Iniciar uma conexão ao banco.
 - [X] Enviar consultas para serem executas e/ou obter seus resultados.
 - [X] Finalizar as conexões criadas. 
 
-# Como utilizar
+## Como utilizar
 
 No terminal, clone o projeto:
 
