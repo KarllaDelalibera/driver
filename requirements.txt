@@ -7,7 +7,7 @@ mysql-connector==2.2.9
 mysql-connector-python==8.0.20
 nodeenv==1.4.0
 pre-commit==2.6.0
-protobuf==3.13.0
+protobuf==3.15.0
 psycopg2-binary==2.8.4
 PyYAML==5.4
 six==1.15.0
