@@ -33,6 +33,3 @@ $ source .venv/bin/activate
 $ pip install -r requirements.txt
 $ pre-commit install
 ```
-
-
-> Status do Projeto: Em desenvolvimento :construction:
