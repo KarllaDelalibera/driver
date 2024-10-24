@@ -4,7 +4,7 @@ distlib==0.3.1
 filelock==3.0.12
 identify==1.4.26
 mysql-connector==2.2.9
-mysql-connector-python==8.0.20
+mysql-connector-python==9.1.0
 nodeenv==1.4.0
 pre-commit==2.6.0
 protobuf==3.18.3
